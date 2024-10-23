@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+.con1,
+.con2,
+.con3,
+.con4,
+.con5 {
+    width: 800px;
+    padding: 10px;
+    margin: auto;
+}
+    
+.con1 {
+
+        display: flex;
+        background-color: #1f2937 ;
+        height: 150px;
+}
+
+.con2 {
+       display: flex;
+       background-color: white;
+       height: 130px;
+}
+
+.con3 {
+    background-color: #e5e7eb;
+    height: 130px;
+}
+
+.con4 {
+        display: flex;
+        background-color: white;
+        height: 100px;
+}
+.con5 {
+    display: flex;
+        background-color: #1f2937 ;
+         height: 40px;
+}
+
+
+
+        
+
+
+
+
